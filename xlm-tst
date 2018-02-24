@@ -1,3 +1,22 @@
+/*
+========================================================
+==== account 1: ====
+
+secret key:
+SD5JOVNV5TAHU3KP6QL65RNQOH4JWA5NLX7YF3GKDPYR25U2YDZRHUVF
+
+public key:
+GCNTEYG7HXXM2TMGKD6YLUAHB5H3VMUAB7SF32VONZTNHWZ7EKAMIXYP
+
+========================================================
+==== account 2: ====
+
+secret key:
+SCBOUZMRGTAAENNRJSRT6MUSP5LFQJNFKUMDJLNA7YXK6733ADFNPSIX
+
+public key:
+GBQFYGLMG5HHQWKCGQ7D4SQGP7PIDMOXDO6FELQI43IU6JFJM36RMCHP
+*/
 
 var StellarSdk = require('stellar-sdk');
 //var server = new StellarSdk.Server('https://horizon-testnet.stellar.org');
